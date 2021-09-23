@@ -1,4 +1,4 @@
-# Open-calc
+# OpenCalc
 A simple calculator write in Visual Basic Script.
 
 ## Screenshot:
